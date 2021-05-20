@@ -1,7 +1,8 @@
 body {
 
     color: #797979;
-    background: #F0E68C;
+    /* background: #F0E68C; */
+    background-image: url("../images/lightbg2.jpg");
 
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
