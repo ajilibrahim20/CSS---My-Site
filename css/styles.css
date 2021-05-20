@@ -2,6 +2,7 @@ body {
 
     color: #797979;
     background: #F0E68C;
+
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
 }
@@ -246,7 +247,8 @@ a:focus {
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
-    background:#4B0082;
+    /* background:#4B0082; */
+    background-image: url("../images/bgm2.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
